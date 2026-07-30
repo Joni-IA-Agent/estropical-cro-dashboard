@@ -1,0 +1,8 @@
+# Safety net — never commit anything but the encrypted dashboard + docs
+*.json
+*.txt
+*.csv
+*.pdf
+*.xlsx
+*.py
+dashboard.html
